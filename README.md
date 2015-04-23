@@ -1,0 +1,1 @@
+##Java ile yüksek seviyeli fonksiyon denemesi
